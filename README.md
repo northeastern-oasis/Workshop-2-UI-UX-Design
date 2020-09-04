@@ -6,7 +6,7 @@ The interactive portion of this workshop will focus on learning how to use Figma
 
 ## Homework
 
-INSERT HOMEWORK HERE
+* Create a free Figma account [here](https://www.figma.com/)
 
 
 ## Getting Started
@@ -22,7 +22,11 @@ INSERT HOMEWORK HERE
 
 Well done finishing the workshop! You now have the necessary skills to create your own project design mockups using Figma! Moving forward, we would recommend the follow steps to continue developing and learning:
 
-INSERT NEXT STEPS HERE
+To continue learning, we’d highly recommend you
+
+
+*   Continue working on your paper and computer-based prototypes and constantly iterate them in response to user feedback
+*   Check out other learning resources available at the Oasis Starting Guide [here](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/ui-ux-design)
 
 
 ## If you couldn't make the workshop
